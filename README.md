@@ -22,7 +22,7 @@ Hola, Soy Marcos!.
 💬 &nbsp;Disponible para colaborar en proyectos o discutir sobre tecnología. Contáctame en marcosdavidavilaa14@gmail.com.
 
 <a href="https://www.linkedin.com/in/avila-marcos-0907412b2/" target="_blank"><img src="https://img.shields.io/badge/-Marcos%20Avila-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>\
-<a href="https://github.com/unosBytes"><img alt="views" title="Github views" src="https://freshidea.com/unosBytes/app/ghpvc/"/></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,7 +46,10 @@ Hola, Soy Marcos!.
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-
+![visual studio]
+<a href="https://visualstudio.microsoft.com/" target="_blank"> 
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
+  </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
