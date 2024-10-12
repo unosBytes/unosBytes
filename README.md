@@ -18,7 +18,7 @@ Hola, Soy Marcos!.
 
 👨‍💻 &nbsp;Actualmente soy estudiante universitario sobre programacion, en la UTN en Argentina, me gusta explorar nuevas tecnologias y desarrollar soluciones de software, tambien hacer patrones y arquitectura de diseño, estoy en camino de aprender mas sobre backend, arquitectura basada en microservicios y aprendizaje automatico.\
 ✍️ &nbsp;En mi tiempo libre me dedico a leer sobre tecnologia y actualizarme, tambien me gusta la psicologia y la musica .\
-💬 &nbsp;No dudes en comunicarte conmigo para consultoría pro bono y voluntariado, o simplemente para tener una discusión interesante!..\
+💬 &nbsp;No dudes en comunicarte conmigo para practicar y charlar sobre un proyecto o simplemente para tener una discusión interesante!..\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a marcosdavidavilaa14@gmail.com! Intentaré responder lo antes posible!.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
