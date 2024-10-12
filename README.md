@@ -16,10 +16,9 @@ Hola, Soy Marcos!.
 ------
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-👨‍💻 &nbsp;Actualmente soy estudiante universitario sobre programacion, en la UTN en Argentina, me gusta explorar nuevas tecnologias y desarrollar soluciones de software, tambien hacer patrones y arquitectura de diseño, estoy en camino de aprender mas sobre backend, arquitectura basada en microservicios y aprendizaje automatico.\
-✍️ &nbsp;En mi tiempo libre me dedico a leer sobre tecnologia y actualizarme, tambien me gusta la psicologia y la musica .\
-💬 &nbsp;No dudes en comunicarte conmigo para practicar y charlar sobre un proyecto o simplemente para tener una discusión interesante!..\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a marcosdavidavilaa14@gmail.com! Intentaré responder lo antes posible!.\
+👨‍💻 &nbsp;Estudiante en Tecnicatura superior en programacion en la UTN, motivado por la inovacion tecnologica y el desarrollo de software. Experiencia en C#, .NET, Mysql server y bases de datos relacionales. Interesado en backend, microservicios.
+✍️ &nbsp;Actualmente trabajando en un proyecto personal para desarrollar una aplicacion de escritorio multiplataforma utilizando .NET .\
+💬 &nbsp;Disponible para colaborar en proyectos o discutir sobre tecnología. Contáctame en marcosdavidavilaa14@gmail.com.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
