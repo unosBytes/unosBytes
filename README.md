@@ -10,7 +10,7 @@ Hola, Soy Marcos!.
 @@ en la UTN. @@
 + Viviendo en Argentina.
 - 18 años
-! ingeniero en programacion, desarrollador backend y amante de la tecnologia
+! Tecnico superior en programacion, desarrollador backend y amante de la tecnologia
 # 📖 Diseño de arquitecturas, patron de diseño
 ```
 ------
