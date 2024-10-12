@@ -20,8 +20,8 @@ Hola, Soy Marcos!.
 🤖 &nbsp;Experiencia en C#, .NET, Mysql server y bases de datos relacionales. Interesado en backend, microservicios.\
 ✍️ &nbsp;Actualmente trabajando en un proyecto personal para desarrollar una aplicacion de escritorio multiplataforma utilizando .NET .\
 💬 &nbsp;Disponible para colaborar en proyectos o discutir sobre tecnología. Contáctame en marcosdavidavilaa14@gmail.com.\
-https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000
-<a href="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000"></a>
+
+<a href="https://img.shields.io/github/followers/{unosBytes}.svg?style=social&label=Follow&maxAge=2592000"></a>
 <a href="https://www.linkedin.com/in/avila-marcos-0907412b2/" target="_blank"><img src="https://img.shields.io/badge/-Marcos%20Avila-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>\
 https://badge-size.herokuapp.com/{unosBytes}/{unosByte}/{branch}/{filename}
 
