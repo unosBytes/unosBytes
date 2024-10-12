@@ -16,7 +16,7 @@ Hola, Soy Marcos!.
 ------
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-👨‍💻 &nbsp;Estudiante en Tecnicatura superior en programacion en la UTN, motivado por la inovacion tecnologica y el desarrollo de software. Experiencia en C#, .NET, Mysql server y bases de datos relacionales. Interesado en backend, microservicios.
+👨‍💻 &nbsp;Estudiante en Tecnicatura superior en programacion en la UTN, motivado por la inovacion tecnologica y el desarrollo de software. Experiencia en C#, .NET, Mysql server y bases de datos relacionales. Interesado en backend, microservicios.\
 ✍️ &nbsp;Actualmente trabajando en un proyecto personal para desarrollar una aplicacion de escritorio multiplataforma utilizando .NET .\
 💬 &nbsp;Disponible para colaborar en proyectos o discutir sobre tecnología. Contáctame en marcosdavidavilaa14@gmail.com.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
