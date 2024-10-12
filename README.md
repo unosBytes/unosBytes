@@ -19,7 +19,7 @@ Hola, Soy Marcos!.
 👨‍💻 &nbsp;Estudiante en Tecnicatura superior en programacion en la UTN, motivado por la inovacion tecnologica y el desarrollo de software.\
 🤖 &nbsp;Experiencia en C#, .NET, Mysql server y bases de datos relacionales. Interesado en backend, microservicios.\
 ✍️ &nbsp;Actualmente trabajando en un proyecto personal para desarrollar una aplicacion de escritorio multiplataforma utilizando .NET .\
-💬 &nbsp;Disponible para colaborar en proyectos o discutir sobre tecnología. Contáctame en marcosdavidavilaa14@gmail.com.\
+💬 &nbsp;Disponible para colaborar en proyectos o discutir sobre tecnología. Contáctame en marcosdavidavilaa14@gmail.com.
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
