@@ -21,7 +21,8 @@ Hola, Soy Marcos!.
 ✍️ &nbsp;Actualmente trabajando en un proyecto personal para desarrollar una aplicacion de escritorio multiplataforma utilizando .NET .\
 💬 &nbsp;Disponible para colaborar en proyectos o discutir sobre tecnología. Contáctame en marcosdavidavilaa14@gmail.com.
 
-<a href="https://www.linkedin.com/in/avila-marcos-0907412b2/" target="_blank"><img src="https://img.shields.io/badge/-Marcos%20Avila-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/avila-marcos-0907412b2/" target="_blank"><img src="https://img.shields.io/badge/-Marcos%20Avila-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>\
+<a href="https://github.com/unosBytes"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
