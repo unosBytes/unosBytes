@@ -22,8 +22,7 @@ Hola, Soy Marcos!.
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a marcosdavidavilaa14@gmail.com! Intentaré responder lo antes posible!.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
-
-<a hrfe="https://www.linkedin.com/in/avila-marcos-0907412b2/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
