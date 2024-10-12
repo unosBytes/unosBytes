@@ -4,7 +4,7 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-Hola, SOY Marcos!.
+Hola, Soy Marcos!.
 
 @@ Estudiante de programacion. @@
 @@ en la UTN. @@
