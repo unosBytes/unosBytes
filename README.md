@@ -1,8 +1,7 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-<img align="left" height="200" src="https://i.redd.it/vzkhe4s8dlab1.gif"/>
 
 ```diff
-hi, im Marcos! 🔮.
+hi, im Marcos! <img align="left" height="100" src="https://i.redd.it/vzkhe4s8dlab1.gif"/>.
 
 @@programming student.@@
 + living in Argentina.
