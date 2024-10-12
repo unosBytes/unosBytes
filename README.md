@@ -21,6 +21,7 @@ Hola, Soy Marcos!.
 💬 &nbsp;No dudes en comunicarte conmigo para consultoría pro bono y voluntariado, o simplemente para tener una discusión interesante!..\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a marcosdavidavilaa14@gmail.com! Intentaré responder lo antes posible!.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white);
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
