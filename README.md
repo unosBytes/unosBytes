@@ -6,20 +6,20 @@
 ```diff
 Hola, SOY Marcos!.
 
-@@Estudiante en programacion.@@
-@@En la UTN@@
+@@ Estudiante de programacion. @@
+@@ en la UTN. @@
 + Viviendo en Argentina.
 - 18 años
 ! ingeniero en programacion, desarrollador backend y amante de la tecnologia
 # 📖 Diseño de arquitecturas, patron de diseño
 ```
 ------
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi
 
-👨‍💻 &nbsp;I'm currently a Computer Science student at UTN in Argentina, passionate about exploring new technologies and developing software solutions. I enjoy designing software patterns and architectures. I'm eager to learn more about backend development, microservices architecture, and machine learning.\
-✍️ &nbsp;In my free time, I love staying updated on the latest tech trends and diving into interesting reads. I also have a passion for psychology and music.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;Feel free to reach out for pro bono consulting or volunteering opportunities, or just to chat about tech! You can email me at marcosdavidavilaa14@gmail.com.\
+👨‍💻 &nbsp;Actualmente soy estudiante universitario sobre programacion, en la UTN en Argentina, me gusta explorar nuevas tecnologias y desarrollar soluciones de software, tambien hacer patrones y arquitectura de diseño, estoy en camino de aprender mas sobre backend, arquitectura basada en microservicios y aprendizaje automatico.\
+✍️ &nbsp;En mi tiempo libre me dedico a leer sobre tecnologia y actualizarme, tambien me gusta la psicologia y la musica .\
+💬 &nbsp;No dudes en comunicarte conmigo para consultoría pro bono y voluntariado, o simplemente para tener una discusión interesante!..\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a marcosdavidavilaa14@gmail.com! Intentaré responder lo antes posible!.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
